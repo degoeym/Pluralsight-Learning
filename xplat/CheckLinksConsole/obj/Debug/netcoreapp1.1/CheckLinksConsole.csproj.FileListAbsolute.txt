@@ -1,0 +1,8 @@
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\bin\Debug\netcoreapp1.1\CheckLinksConsole.deps.json
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\bin\Debug\netcoreapp1.1\CheckLinksConsole.runtimeconfig.json
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\bin\Debug\netcoreapp1.1\CheckLinksConsole.runtimeconfig.dev.json
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\bin\Debug\netcoreapp1.1\CheckLinksConsole.dll
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\bin\Debug\netcoreapp1.1\CheckLinksConsole.pdb
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\obj\Debug\netcoreapp1.1\CheckLinksConsole.AssemblyInfo.cs
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\obj\Debug\netcoreapp1.1\CheckLinksConsole.dll
+C:\Users\mdegoey\Documents\Core\pluralsightLearning\Building Cross-platform apps with .Net Core\xplat\CheckLinksConsole\obj\Debug\netcoreapp1.1\CheckLinksConsole.pdb
