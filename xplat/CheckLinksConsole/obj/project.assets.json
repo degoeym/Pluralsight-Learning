@@ -2,6 +2,26 @@
   "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
+      "HtmlAgilityPack.NetCore/1.5.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.0.11",
+          "System.Diagnostics.Debug": "4.0.11",
+          "System.Linq": "4.1.0",
+          "System.Runtime": "4.1.0",
+          "System.Runtime.Extensions": "4.1.0",
+          "System.Runtime.InteropServices": "4.1.0",
+          "System.Text.RegularExpressions": "4.1.0",
+          "System.Threading": "4.0.11",
+          "System.Xml.XPath": "4.0.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll": {}
+        }
+      },
       "Libuv/1.9.1": {
         "type": "package",
         "dependencies": {
@@ -2239,7 +2259,7 @@
           "System.Xml.ReaderWriter": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/System.Xml.XPath.dll": {}
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.dll": {}
@@ -2268,6 +2288,17 @@
     }
   },
   "libraries": {
+    "HtmlAgilityPack.NetCore/1.5.0.1": {
+      "sha512": "4rl5hUO6uIKPXeJ5nAJ9SRqTTlDcufQkoQYPI45xgizGvz8JWgGNN4p1uHm8fL9CZzH0I1cV9HEoOJBD8w5y7w==",
+      "type": "package",
+      "path": "htmlagilitypack.netcore/1.5.0.1",
+      "files": [
+        "htmlagilitypack.netcore.1.5.0.1.nupkg.sha512",
+        "htmlagilitypack.netcore.nuspec",
+        "lib/net45/HtmlAgilityPack.NetCore.dll",
+        "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll"
+      ]
+    },
     "Libuv/1.9.1": {
       "sha512": "t/NFn8beGXLm7eEyoLJ0bbTrJrhHxSW96goZjCcOTfrKivDR/KLrS5cxPCblMGs7Wja2tBFlruFv/DEO2j/jDw==",
       "type": "package",
@@ -7071,6 +7102,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "HtmlAgilityPack.NetCore >= 1.5.0.1",
       "Microsoft.NETCore.App >= 1.1.1"
     ]
   },
@@ -7103,6 +7135,10 @@
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "1.1.1"
+          },
+          "HtmlAgilityPack.NetCore": {
+            "target": "Package",
+            "version": "1.5.0.1"
           }
         }
       }
